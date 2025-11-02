@@ -109,7 +109,7 @@ ImGuiFileDialog/ImGuiFileDialog.cpp \
 
 ---
 
-##💡 Ideas for Further Development:
+## 💡 Ideas for Further Development:
 
 🧭 Undo/Redo functionality — allow reverting and reapplying recent actions.
 
