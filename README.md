@@ -109,6 +109,26 @@ ImGuiFileDialog/ImGuiFileDialog.cpp \
 
 ---
 
+##💡 Ideas for Further Development:
+
+🧭 Undo/Redo functionality — allow reverting and reapplying recent actions.
+
+🧹 Clear canvas on "New" button — automatically clear the workspace when creating a new file.
+
+🎨 Live gradient preview — currently, two-color lines are saved with gradients, but the live preview is missing.
+
+🧱 Drawing order fix — ensure that newly added elements appear on top (layered correctly).
+
+🧩 Polymorphic shape system — implement inheritance for shapes (e.g., base Shape class) and store them in a single vector.
+
+🔺 Add more shapes — support for triangles, ellipses, polygons, stars, etc.
+
+🖱️ Shape interaction — enable selecting, moving, resizing, and deleting shapes.
+
+🔤 Text tool — allow adding text elements to the canvas.
+
+---
+
 
 
 ## 🧾 Licencja
