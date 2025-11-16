@@ -1,4 +1,4 @@
-# 🎨 Simple-Paint
+# 🎨 Simple_Paint
 
 Projekt stworzony w C++ z wykorzystaniem **SFML 3.0.2**, **Dear ImGui** oraz **ImGui-SFML**.  
 Pozwala na rysowanie prostych kształtów, zmianę kolorów i zapisywanie obrazu — prosty edytor graficzny typu *paint*.
